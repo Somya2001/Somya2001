@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at my <a href=" ">porfolio Website</a>
 
-- 📫 How to reach me : **dikshasharma.132002@gmail.com**
+- 📫 How to reach me : **somya200111@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -69,8 +69,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/diksha-sharma132002?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG2ZCNkXuS86b2ey3WTam1Q%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/DikshaS57248850"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "www.linkedin.com/in/somya-jain-bb6283202"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/dikshasharma.13.02/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
