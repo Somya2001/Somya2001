@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at my <a href=" ">porfolio Website</a>
+- 👨‍💻 All of my projects are available at my <a href=" ">https://somya2001.github.io/Portfolio-website/</a>
 
 - 📫 How to reach me : **somya200111@gmail.com**
 
