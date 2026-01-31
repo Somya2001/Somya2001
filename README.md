@@ -3,13 +3,13 @@
  </p>
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,नमस्ते (Namaste)🙏🏻, I'm Somya Jain</h1>
-<h3 align="center">A Curious Programmer from India.</h3>
+<h3 align="center">A DevOps Engineer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently working in **Tata Consultancy Services** as **System Engineer.**
 
-- 🌱 I'm also working on my **backend skills**.
+- 🌱 I'm also working on my **DevOps skills**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
